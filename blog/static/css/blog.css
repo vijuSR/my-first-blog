@@ -17,9 +17,8 @@ body {
     color: floralwhite;
 }
 
-.content-container {
+.content{
     margin-left: 40px;
-    width: 100%;
 }
 
 h1, h2 {
@@ -45,7 +44,7 @@ h3, h4 {
 .top-menu, .top-menu:hover, .top-menu:visited {
     color: #ffffff;
     float: right;
-    font-size: 26pt;
+    font-size: 46px;
     margin-right: 20px;
 }
 
